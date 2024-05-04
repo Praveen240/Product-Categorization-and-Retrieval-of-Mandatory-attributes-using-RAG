@@ -88,7 +88,6 @@ class FlaskApp:
         self.app.run(debug=True)
 
 def main():
-    # We need to add the path for the taxonomy json data  
     json_file_path = r'C:\Users\manoj\OneDrive\Desktop\Praveen_project\myenv\taxonomy.json'
 
     json_loader = JSONLoader(json_file_path)
