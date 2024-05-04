@@ -21,4 +21,4 @@ Providing an intuitive user interface for querying fashion product information.
 Harnessing the power of NLP models like RAG to accurately categorize products
 and retrieve attributes.
 Enhancing the efficiency of fashion product management and
-classification processes
+classification processes.
